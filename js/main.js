@@ -9,6 +9,3 @@ function toggleModal() {
     modal.classList.toggle("is-open");
 } 
 
-function toggleModal () {
-    modal.classList.toggle('is-open');
-}
